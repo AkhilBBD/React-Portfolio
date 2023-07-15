@@ -9,6 +9,7 @@ import work3 from "./assets/work3.png";
 import work4 from "./assets/work4.png";
 
 
+
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
 export const socialIcons = [

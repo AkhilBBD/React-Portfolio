@@ -42,7 +42,7 @@ export const bios = [
 
 export const icons = [<FaHtml5 />, <FaCss3 />,<FaSass />,<SiTailwindcss />, <DiJavascript />, <SiTypescript />, <FaReact />, <FaNodeJs />, <SiExpress />, <FaGit />,<FaBootstrap />,<FaGithub />,<FaJava />,<SiCplusplus />,<DiMongodb />,<SiMysql />]
 
-export const education = [
+export const educations = [
   {
     id: 1,
     year: "2020-2024",

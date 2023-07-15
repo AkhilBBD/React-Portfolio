@@ -83,28 +83,34 @@ export const workImages = [
     id: 1,
     img: work1,
     name: "project 1",
-    category: "Javascript"
+    category: "Javascript",
+    githubLink: "https://mishrasukriti.github.io/portfolio/",
+    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   },
   {
     id: 2,
     img: work2,
     name: "project 2",
-    category: "Javascript"
+    category: "Javascript",
+    githubLink: "https://mishrasukriti.github.io/portfolio/",
+    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   },
   {
     id: 3,
     img: work3,
     name: "project 3",
-    category: "Javascript"
+    category: "Javascript",
+    githubLink: "https://mishrasukriti.github.io/portfolio/",
+    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   },
   {
     id: 4,
     img: work4,
     name: "project 4",
-    category: "React"
-  },
-  
-  
+    category: "React",
+    githubLink: "https://mishrasukriti.github.io/portfolio/",
+    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
+  }
 ]
 
 

@@ -1,7 +1,7 @@
-import { FaHtml5, FaCss3, FaNodeJs, FaReact, FaSass, FaPhoneAlt, FaUser, FaMapMarkerAlt, FaPaperPlane, FaDribbble, FaInstagram, FaLinkedin, FaGit, FaBootstrap, FaGithub, FaJava } from "react-icons/fa";
+import { FaHtml5, FaCss3, FaNodeJs, FaReact, FaSass, FaPhoneAlt, FaUser, FaMapMarkerAlt, FaPaperPlane, FaSnapchat, FaInstagram, FaLinkedin, FaGit, FaBootstrap, FaGithub, FaJava } from "react-icons/fa";
 import { DiJavascript, DiMongodb } from "react-icons/di";
 import { SiCplusplus, SiExpress, SiMysql, SiTailwindcss, SiTypescript } from "react-icons/si";
-import { BsMedium } from "react-icons/bs";
+
 import portfolio from "./assets/portfolio.jpg"
 import work1 from "./assets/work1.png";
 import work2 from "./assets/work2.png";
@@ -13,10 +13,10 @@ import work4 from "./assets/work4.png";
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
 export const socialIcons = [
-  <FaDribbble />,
+  <FaGithub />,
   <FaInstagram />,
   <FaLinkedin />,
-  <BsMedium />
+  <FaSnapchat />
 ]
 
 export const bios = [

@@ -50,9 +50,7 @@ const Navbar = () => {
           transition={{duration: 0.5}}
           className={scroll ? "header active" : "header"}>
           <div className="Nav_container">
-              <div className="logo">
-                    <h3>A</h3>
-              </div>
+             
               <ul
                       className="nav_links"
                    >

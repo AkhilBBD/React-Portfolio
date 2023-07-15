@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    
+
+    .message {
+        
+text-align: center;
+        p{
+            font-size: 0.85rem;  
+        }
+       
+            
+        
+    }
+    
+}

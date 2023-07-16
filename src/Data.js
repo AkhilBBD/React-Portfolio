@@ -6,17 +6,27 @@ import portfolio from "./assets/portfolio.jpg"
 import work1 from "./assets/work1.png";
 import work2 from "./assets/work2.png";
 import work3 from "./assets/work3.png";
-import work4 from "./assets/work4.png";
+
 
 
 
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
 export const socialIcons = [
-  <FaGithub />,
-  <FaInstagram />,
-  <FaLinkedin />,
+  <a href="https://github.com/AkhilBBD" target="_blank" rel="noopener noreferrer">
+    <FaGithub />
+  </a>,
+ 
+<a href="#"  rel="noopener noreferrer">
+    <FaInstagram />
+  </a>,
+
+  <a href="https://www.linkedin.com/in/akhil-pandey-3612b519b" target="_blank" rel="noopener noreferrer">
+  <FaLinkedin />
+</a>,
+  <a href="https://www.snapchat.com/add/pandeyjiup32?share_id=pOsOOgLRMio&locale=en-US" target="_blank" rel="noopener noreferrer">
   <FaSnapchat />
+</a>,
 ]
 
 export const bios = [
@@ -91,7 +101,7 @@ export const workImages = [
     id: 2,
     img: work2,
     name: "project 2",
-    category: "Javascript",
+    category: "React",
     githubLink: "https://mishrasukriti.github.io/portfolio/",
     liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   },
@@ -102,15 +112,8 @@ export const workImages = [
     category: "Javascript",
     githubLink: "https://mishrasukriti.github.io/portfolio/",
     liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
-  },
-  {
-    id: 4,
-    img: work4,
-    name: "project 4",
-    category: "React",
-    githubLink: "https://mishrasukriti.github.io/portfolio/",
-    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   }
+  
 ]
 
 

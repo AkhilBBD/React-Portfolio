@@ -102,7 +102,7 @@ export const workImages = [
     img: work2,
     name: "project 2",
     category: "React",
-    githubLink: "https://mishrasukriti.github.io/portfolio/",
+    githubLink: "https://github.com/AkhilBBD/React-Portfolio",
     liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
   },
   {

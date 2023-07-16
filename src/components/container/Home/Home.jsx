@@ -11,7 +11,8 @@ const Home = () => {
       animation: {
         y: [0, -15],
         transition: {
-          yoyo: Infinity,
+          repeat: Infinity,
+          repeatType:"reverse",
           duration: 2,
           delay: 1
         }

@@ -94,8 +94,8 @@ export const workImages = [
     img: work1,
     name: "project 1",
     category: "Javascript",
-    githubLink: "https://mishrasukriti.github.io/portfolio/",
-    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
+    githubLink: "https://github.com/AkhilBBD/Zomato-Clone-",
+    liveLink: "https://zomato-clone-akhil-one.vercel.app"
   },
   {
     id: 2,
@@ -110,8 +110,8 @@ export const workImages = [
     img: work3,
     name: "project 3",
     category: "Javascript",
-    githubLink: "https://mishrasukriti.github.io/portfolio/",
-    liveLink: "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"
+    githubLink: "https://github.com/AkhilBBD/Calculator-app/tree/main/Calculator%20CN",
+    liveLink: "https://calculator-app-akhil.vercel.app/"
   }
   
 ]

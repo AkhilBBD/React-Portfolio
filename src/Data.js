@@ -69,7 +69,7 @@ export const educations = [
   },
   {
     id: 3,
-    year: "2018-2019",
+    year: "2016-2017",
     pursuing: "Class X std (CBSE)",
     institute:"The Lucknow Public Collegiate,Lucknow"
     

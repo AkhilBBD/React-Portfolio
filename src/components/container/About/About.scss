@@ -9,12 +9,12 @@
     }
 
     .about_left {
-        background: #8c12f0;
+        background:#8c12f0;
         max-width: 350px;
         height: 350px;
         justify-self: center;
         border-radius: 5px;
-        box-shadow: 0 0 20px #8c12f0;
+        box-shadow: 0 0 20px grayscale($color: #5e4747);
 
         img {
             object-fit: cover;
@@ -25,7 +25,7 @@
     }
     .about_right {
         color: #fff;
-        padding: 1rem;
+        padding: 0.25rem;
         display: flex;
         flex-direction: column;
 

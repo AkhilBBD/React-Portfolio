@@ -49,6 +49,8 @@ export const bios = [
     value: "akhilpandey0721@gmail.com"
   }
 ]
+export const downloadResume = ["https://drive.google.com/file/d/1TYUIrI7WgOc-x4GNYDo0kG5e3Lz5tGE0/view"]
+
 
 export const icons = [<FaHtml5 />, <FaCss3 />,<FaSass />,<SiTailwindcss />, <DiJavascript />, <SiTypescript />, <FaReact />, <FaNodeJs />, <SiExpress />, <FaGit />,<FaBootstrap />,<FaGithub />,<FaJava />,<SiCplusplus />,<DiMongodb />,<SiMysql />]
 

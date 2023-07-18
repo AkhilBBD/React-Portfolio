@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion';
 import { bios } from '../../../Data';
+import { downloadResume } from '../../../Data';
 import portfolio from "../../../assets/portfolio.jpg"
 import "./About.scss";
 
@@ -46,7 +47,7 @@ const About = () => {
 
 {/* //paste the Akhil Resume in download="" below */}
 
-          <motion.a href='#' download=""
+          <motion.a href = {downloadResume} target="#"
             whileHover={{ scale: 1.1 }}
             transition={{ duration: 0.3 }}
           >

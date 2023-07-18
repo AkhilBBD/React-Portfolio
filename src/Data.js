@@ -1,11 +1,13 @@
 import { FaHtml5, FaCss3, FaNodeJs, FaReact, FaSass, FaPhoneAlt, FaUser, FaMapMarkerAlt, FaPaperPlane, FaSnapchat, FaInstagram, FaLinkedin, FaGit, FaBootstrap, FaGithub, FaJava } from "react-icons/fa";
 import { DiJavascript, DiMongodb } from "react-icons/di";
 import { SiCplusplus, SiExpress, SiMysql, SiTailwindcss, SiTypescript } from "react-icons/si";
-
+import { FiMail } from "react-icons/fi";
 import portfolio from "./assets/portfolio.jpg"
 import work1 from "./assets/work1.png";
 import work2 from "./assets/work2.png";
 import work3 from "./assets/work3.png";
+
+
 
 
 
@@ -16,6 +18,10 @@ export const socialIcons = [
   <a href="https://github.com/AkhilBBD" target="_blank" rel="noopener noreferrer">
     <FaGithub />
   </a>,
+
+<a href="mailto:akhilpandey0721@gmail.com" target="_blank" rel="noopener noreferrer">
+<FiMail/>
+</a>,
  
 <a href="#"  rel="noopener noreferrer">
     <FaInstagram />
